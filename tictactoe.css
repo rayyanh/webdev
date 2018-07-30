@@ -1,0 +1,39 @@
+h1{
+	text-align: center;
+}
+td{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	/*border: 2px solid black;*/
+	}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+#topleft{
+	border-bottom: 1px solid black;
+	
+}
+#topmid{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+#topright{
+	border-bottom: 1px solid black;
+}
+#midleft{
+	border-bottom: 1px solid black;
+}
+#mid{
+	border: 1px solid black;
+}
+#midright{
+	border-bottom: 1px solid black;
+}
+#botleft{
+	border-right: 1px solid black;
+}
+#botright{
+	border-left: 1px solid black;
+}
